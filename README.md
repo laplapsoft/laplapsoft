@@ -1,7 +1,7 @@
 Learning C++ effectively requires a combination of structured study, hands-on practice, and real-world application. Here’s a step-by-step approach:  
 
 ### **1. Understand the Basics**  
-✅ Learn syntax, data types, loops, and functions.  
+✅ [Learn syntax, data types, loops, and functions.](https://github.com/laplapsoft/laplapsoft/commit/efa29f4397f4c4b000a08267b52bfa44e2bc25f8)  
 📌 Resources:  
 - **Book**: *C++ Primer (5th Edition) – Lippman, Lajoie, Moo*  
 - **Course**: [C++ Fundamentals on Codecademy](https://www.codecademy.com/)  
