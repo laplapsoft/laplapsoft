@@ -5,7 +5,6 @@ Learning C++ effectively requires a combination of structured study, hands-on pr
 📌 Resources:  
 - **Book**: *C++ Primer (5th Edition) – Lippman, Lajoie, Moo*  
 - **Course**: [C++ Fundamentals on Codecademy](https://www.codecademy.com/)  
-
 ---
 
 ### **2. Dive Into Object-Oriented Programming (OOP)**  
